@@ -78,3 +78,5 @@ package-links.json
 
 _esy/
 *.exe
+!ppx-osx.exe
+!ppx-linux.exe
